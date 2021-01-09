@@ -9,3 +9,5 @@ An assortment of extra ASUS router icons.
 <img src="nintendo_switch.png" width="54" />
 <img src="nvidia.png" width="54" />
 <img src="printer.png" width="54" />
+<img src="vacuum_robot.png" width="54" />
+<img src="voip.png" width="54" />
