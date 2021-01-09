@@ -3,8 +3,8 @@
 An assortment of extra ASUS router icons.
 
 <img src="amazon_echo_dot-2.png" width="54">
-<img src="amazon_echo_dot-color.png" width="54">
-<img src="amazon_echo_dot.png" width="54">
+<img src="amazon_echo_dot-3.png" width="54">
+<img src="amazon_echo-color.png" width="54">
 <img src="fridge.png" width="54">
 <img src="garage.png" width="54">
 <img src="led_strip.png" width="54">
