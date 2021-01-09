@@ -2,6 +2,7 @@
 
 An assortment of extra ASUS router icons.
 
+![ASUS router icons sample](asus_router_icons_sample.png)
 
 ## Standard edition
 
