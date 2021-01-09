@@ -2,7 +2,8 @@
 
 An assortment of extra ASUS router icons.
 
-## Standard icons
+
+## Standard edition
 
 <img src="standard/amazon_echo_dot-2.png" width="54">
 <img src="standard/amazon_echo_dot-3.png" width="54">
@@ -37,10 +38,25 @@ An assortment of extra ASUS router icons.
 <img src="standard/washing_machine.png" width="54">
 <img src="standard/xbox.png" width="54">
 
-## Color icons
+
+## Color edition
 
 <img src="color/amazon_echo-color.png" width="54">
 <img src="color/hdhomerun-color.jpg" width="54">
 <img src="color/kodi-color.png" width="54">
 <img src="color/myq-color.jpg" width="54">
 <img src="color/raspberry_pi-color.png" width="54">
+
+
+## Creating a new icon
+
+If you don't have Photoshop or similar, try using https://pixlr.com which is free.
+
+- Create a canvas size of `270x270`
+- Create a bottom layer and apply a solid background color of `#798D94`
+- Create or download icons, check out https://iconscout.com or https://flaticon.com
+- Paste in any black `#000000` icon with a transparent background as a second top layer
+- Transform the top icon layer to a size of about `200x200`
+- Center the top icon layer
+- Lower opacity of the icon layer to `65`
+- Save the icon as a `png`, or alternatively `jpg` if it's much smaller filesize
