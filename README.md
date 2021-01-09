@@ -7,6 +7,7 @@ An assortment of extra ASUS router icons.
 <img src="amazon_echo-color.png" width="54">
 <img src="cctv-1.png" width="54">
 <img src="cctv-2.png" width="54">
+<img src="doorbell.png" width="54">
 <img src="fan.png" width="54">
 <img src="fridge.png" width="54">
 <img src="garage.png" width="54">
