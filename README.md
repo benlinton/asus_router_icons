@@ -11,6 +11,7 @@ An assortment of extra ASUS router icons.
 <img src="fan.png" width="54">
 <img src="fridge.png" width="54">
 <img src="garage.png" width="54">
+<img src="hdhomerun-color.jpg" width="54">
 <img src="lamp.png" width="54">
 <img src="led_strip.png" width="54">
 <img src="light_bulb.png" width="54">
