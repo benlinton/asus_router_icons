@@ -29,6 +29,7 @@ An assortment of extra ASUS router icons.
 <img src="standard/printer-2.png" width="54">
 <img src="standard/printer.png" width="54">
 <img src="standard/raspberry_pi.png" width="54">
+<img src="standard/smoke_detector.png" width="54">
 <img src="standard/speaker.png" width="54">
 <img src="standard/switch.png" width="54">
 <img src="standard/thermostat.png" width="54">
@@ -36,16 +37,21 @@ An assortment of extra ASUS router icons.
 <img src="standard/vehicle.png" width="54">
 <img src="standard/voip.png" width="54">
 <img src="standard/washing_machine.png" width="54">
+<img src="standard/water_sensor.png" width="54">
 <img src="standard/xbox.png" width="54">
 
 
 ## Color edition
 
 <img src="color/amazon_echo-color.png" width="54">
+<img src="color/ecobee-color.png" width="54">
 <img src="color/hdhomerun-color.jpg" width="54">
 <img src="color/kodi-color.png" width="54">
 <img src="color/myq-color.jpg" width="54">
+<img src="color/nvidia-color.png" width="54">
+<img src="color/plex-color.png" width="54">
 <img src="color/raspberry_pi-color.png" width="54">
+<img src="color/roku-color.png" width="54">
 
 
 ## Creating a new icon
