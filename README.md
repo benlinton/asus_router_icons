@@ -8,6 +8,7 @@ An assortment of extra ASUS router icons.
 
 <img src="standard/amazon_echo_dot-2.png" width="54">
 <img src="standard/amazon_echo_dot-3.png" width="54">
+<img src="standard/amazon_fire.png" width="54">
 <img src="standard/apple_watch.png" width="54">
 <img src="standard/cctv-1.png" width="54">
 <img src="standard/cctv-2.png" width="54">
@@ -30,10 +31,12 @@ An assortment of extra ASUS router icons.
 <img src="standard/plug.png" width="54">
 <img src="standard/printer.png" width="54">
 <img src="standard/raspberry_pi.png" width="54">
+<img src="standard/roku.png" width="54">
 <img src="standard/scale.png" width="54">
 <img src="standard/scanner.png" width="54">
 <img src="standard/smoke_detector.png" width="54">
 <img src="standard/speaker.png" width="54">
+<img src="standard/stick.png" width="54">
 <img src="standard/switch.png" width="54">
 <img src="standard/thermostat.png" width="54">
 <img src="standard/vacuum_robot.png" width="54">
@@ -59,7 +62,7 @@ An assortment of extra ASUS router icons.
 
 ## Creating a new icon
 
-If you don't have Photoshop or similar, try using https://pixlr.com which is free.
+If you don't have Photoshop or similar, try using https://pixlr.com/x/ which is free.
 
 - Create a canvas size of `270x270`
 - Create a bottom layer and apply a solid background color of `#798D94`
