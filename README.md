@@ -11,6 +11,7 @@ An assortment of extra ASUS router icons.
 <img src="standard/apple_watch.png" width="54">
 <img src="standard/cctv-1.png" width="54">
 <img src="standard/cctv-2.png" width="54">
+<img src="standard/cctv-3.png" width="54">
 <img src="standard/doorbell.png" width="54">
 <img src="standard/fan.png" width="54">
 <img src="standard/fridge.png" width="54">
@@ -27,7 +28,6 @@ An assortment of extra ASUS router icons.
 <img src="standard/oven.png" width="54">
 <img src="standard/playstation.png" width="54">
 <img src="standard/plug.png" width="54">
-<img src="standard/printer-2.png" width="54">
 <img src="standard/printer.png" width="54">
 <img src="standard/raspberry_pi.png" width="54">
 <img src="standard/scanner.png" width="54">
