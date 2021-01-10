@@ -30,6 +30,7 @@ An assortment of extra ASUS router icons.
 <img src="standard/plug.png" width="54">
 <img src="standard/printer.png" width="54">
 <img src="standard/raspberry_pi.png" width="54">
+<img src="standard/scale.png" width="54">
 <img src="standard/scanner.png" width="54">
 <img src="standard/smoke_detector.png" width="54">
 <img src="standard/speaker.png" width="54">
