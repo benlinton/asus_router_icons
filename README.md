@@ -8,6 +8,7 @@ An assortment of extra ASUS router icons.
 
 <img src="standard/amazon_echo_dot-2.png" width="54">
 <img src="standard/amazon_echo_dot-3.png" width="54">
+<img src="standard/amazon_echo.png" width="54">
 <img src="standard/amazon_fire.png" width="54">
 <img src="standard/apple_watch.png" width="54">
 <img src="standard/cctv-1.png" width="54">
