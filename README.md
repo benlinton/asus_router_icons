@@ -8,6 +8,8 @@ You can either checkout this repository or individually download icons below.
 
 ## Standard edition
 
+Click on any icon to download it.
+
 | Name | Icon |
 |------|------|
 | amazon_echo_dot-2 | <img src="standard/amazon_echo_dot-2.png" width="54"> |
@@ -53,6 +55,8 @@ You can either checkout this repository or individually download icons below.
 
 
 ## Color edition
+
+Click on any icon to download it.
 
 | Name | Icon |
 |------|------|
